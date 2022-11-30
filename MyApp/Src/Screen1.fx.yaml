@@ -8,7 +8,6 @@ Screen1 As screen:
 
     Octagon1 As octagon:
         Fill: =Green
-        Visible: = false
         X: =200
         Y: =233
         ZIndex: =2
