@@ -95,11 +95,11 @@
     "Id": "2899b2d9-ffcf-446a-b74f-6181f2924394",
     "InstrumentationKey": "",
     "LocalDatabaseReferences": "{}",
-    "Name": "Test",
+    "Name": "Testf",
     "OriginatingVersion": "1.326"
   },
   "PublishInfo": {
-    "AppName": "Test",
+    "AppName": "Testf",
     "BackgroundColor": "RGBA(0,176,240,1)",
     "IconColor": "RGBA(255,255,255,1)",
     "IconName": "Edit",
@@ -110,6 +110,8 @@
     "UserLocale": "en-US"
   },
   "ScreenOrder": [
-    "Screen1"
+    "Screen1",
+    "Screen2",
+    "Screen3"
   ]
 }
