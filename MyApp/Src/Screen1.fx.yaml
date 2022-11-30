@@ -1,7 +1,7 @@
 Screen1 As screen:
 
     btnButton As button:
-        Size: =30
+        Size: =15
         Text: ="Button"
         X: =40
         Y: =40
