@@ -6,3 +6,9 @@ Screen1 As screen:
         Y: =40
         ZIndex: =1
 
+    Octagon1 As octagon:
+        Fill: =Green
+        X: =200
+        Y: =233
+        ZIndex: =2
+
